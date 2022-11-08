@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Sharpen your ear
-    description                           : The most difficult thing in Chinese is tones. Learn to recognize the 4 tones, and know when to use what tone.
+    description                           : The most difficult thing in Chinese is tones. Learn to recognize the 4 tones, and know when to use which.
     fontawesome_icon_name                 : fire
     
   - title                                 : Shi, Si or Xi?
@@ -47,12 +47,12 @@ features                                  :
     description                           : Quick, snappy drills that make learning a breeze. Earn stars and level up while getting repeated Chinese practice!
     fontawesome_icon_name                 : heart
 
-  - title                                 : Improve pronunciation
-    description                           : Being better able to hear sounds will improve your pronunication. Work your way towards a more natural Chinese accent!
+  - title                                 : Improve your pronunciation
+    description                           : Research shows that being better able to hear sounds will improve your pronunication ability. Work towards a more natural Chinese accent!
     fontawesome_icon_name                 : fire
 
   - title                                 : Stop embarrassing yourself
-    description                           : No more confusing mā (mother) for mǎ (horse), or shāng hài (hurt) for shàng hǎi (Shanghai)! 
+    description                           : No more confusing mā (mother) for mǎ (horse), or shāng hài (hurt) for shàng hǎi (Shanghai)!
     fontawesome_icon_name                 : star
 
   - title                                 : Free, with no ads
