@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/app_icon.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : 卡 Ka Chinese Tones                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The fun way to learn and master Chinese tones.
+app_description                           : The fun way to master Chinese tones.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,7 +35,7 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Sharpen your ear
+  - title                                 : Sharpen your ear.
     description                           : The most difficult thing in Chinese is tones. Learn to recognize the 4 tones, and know when to use which.
     fontawesome_icon_name                 : fire
     
@@ -43,19 +43,19 @@ features                                  :
     description                           : Train your ear to pick up nuances in pronunciation. Be able to tell the difference between similar syllables and sounds.
     fontawesome_icon_name                 : star
     
-  - title                                 : Fun and addictive
+  - title                                 : Fun and addictive.
     description                           : Quick, snappy drills that make learning a breeze. Earn stars and level up while getting repeated Chinese practice!
     fontawesome_icon_name                 : heart
 
-  - title                                 : Improve your pronunciation
+  - title                                 : Improve your pronunciation.
     description                           : Research shows that being better able to hear sounds will improve your pronunication ability. Work towards a more natural Chinese accent!
     fontawesome_icon_name                 : fire
 
-  - title                                 : Stop embarrassing yourself
+  - title                                 : Stop embarrassing yourself.
     description                           : No more confusing mā (mother) for mǎ (horse), or shāng hài (hurt) for shàng hǎi (Shanghai)!
     fontawesome_icon_name                 : star
 
-  - title                                 : Free, with no ads
+  - title                                 : Free, with no ads.
     description                           : Yes, you read that right. Download the app today and start having fun learning Chinese tones & syllables!
     fontawesome_icon_name                 : heart
   
